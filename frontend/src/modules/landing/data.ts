@@ -156,7 +156,7 @@ export const teamData = [
   },
   {
     img: "/images/landing/team/milan.png",
-    name: "Milan Jansen",
+    name: "Kenzo Suzuki",
     role: "Fullstack and blockchain developer",
   },
   {
